@@ -7,8 +7,7 @@ Please surf on! :smile:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... :computer: Web Development 
-    ##### Alumni Website for University, 
+- 🔭 I’m currently working on ... :computer: Web Development (Django)
 - 🌱 I’m currently learning ... German :de: :book: :beer:
 - 👯 I’m looking to collaborate on ... Android App Development :notebook_with_decorative_cover:
 - 🤔 I’m looking for help with ... :iphone: React
