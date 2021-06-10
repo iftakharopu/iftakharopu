@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... iftakharopu27@gmail.com
 - 😄 Pronouns: ... ef-tae-kh-ar--o-pu :penguin: -->
-- ⚡ Fun fact: ... I'm self proclaimed comic :black_joker: 
+- ⚡ Fun fact: ... My personality trait is ENFP :neckbeard:
 
