@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... *nothing* :notebook_with_decorative_cover:
 - 🤔 I’m looking for help with ... React
 <!-- - 💬 Ask me about ...
-- 📫 How to reach me: ... iftakharopu@outlook.com
+- 📫 How to reach me: ... mail.iftakharul@gmail.com
 - 😄 Pronouns: ... ef-tae-kh-ar--o-pu :penguin: -->
 - My personality trait is ENFP :trollface:
 
