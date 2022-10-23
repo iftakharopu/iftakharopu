@@ -7,10 +7,10 @@ Please surf on! :smile:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... :computer: Web Development (Django)
+- 🔭 I’m currently working on ... :computer: Scripting, Praat, 
 - 🌱 I’m currently learning ... German :de: :book: :car: :beer:
 - 👯 I’m looking to collaborate on ... *nothing* :notebook_with_decorative_cover:
-- 🤔 I’m looking for help with ... React
+- 🤔 I’m looking for help with ... GO
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ... mail.iftakharul@gmail.com
 - 😄 Pronouns: ... ef-tae-kh-ar--o-pu :penguin: -->
