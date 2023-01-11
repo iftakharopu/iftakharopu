@@ -7,13 +7,15 @@ Please surf on! :smile:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... , 
+- 🔭 I’m currently studying ... Computational Linguistics  
 - 🌱 I’m currently learning ... German :de: :book: :car: :beer: **:computer: Scripting, Praat**
+
+- 👯 I’m looking to collaborate on ...  :notebook_with_decorative_cover:
 <!--
-- 👯 I’m looking to collaborate on ... *nothing* :notebook_with_decorative_cover:
 - 🤔 I’m looking for help with ... GO -->
-<!-- - 💬 Ask me about ...
-- 📫 How to reach me: ... mail.iftakharul@gmail.com
-- 😄 Pronouns: ... ef-tae-kh-ar--o-pu :penguin: -->
+
+- 📫 How to reach me: ... iftakharul.islam@ims.uni-stuttgart.de
+- 😄 Pronouns: ... if-tae-kh-ar /op-u:star:
 - My personality trait is ENFP :trollface:
+<!-- - 💬 Ask me about ... -->
 
